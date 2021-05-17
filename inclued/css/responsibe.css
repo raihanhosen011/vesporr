@@ -1,0 +1,19 @@
+div#navbarSupportedContent ul {
+  width: 73%;
+  margin: auto;
+  text-align: center;
+  background: white;
+  border: 1px solid #bcbcbc;
+  border-radius: 17px;
+}
+div#navbarSupportedContent button {
+  margin: auto;
+}
+#tit {
+  text-align: center;
+  margin: 7% 0%;
+  margin-top: 35%;
+}
+section#client {
+  margin-top: 32%;
+}
